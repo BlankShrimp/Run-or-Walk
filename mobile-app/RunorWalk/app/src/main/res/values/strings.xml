@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Run or Walk</string>
+    <string name="ok">Confirm</string>
+
+    <!--  login fragment  -->
+    <string name="label_login_greeting">Welcome to Run or Walk</string>
+    <string name="label_login_name_hint">Account</string>
+    <string name="label_login_pssw_hint">Password</string>
+    <string name="label_login_re_pssw_hint">Repeat Password</string>
+    <string name="label_login_devid_hint">Device id</string>
+    <string name="button_login">Login</string>
+    <string name="logging_title">Logging in</string>
+    <string name="logging_msg">Connecting to server…</string>
+    <string name="login_success">Success!</string>
+    <string name="login_failed">Failed! Please check your credentials. </string>
+
+    <!--  register fragment  -->
+    <string name="button_reg">Register</string>
+    <string name="button_back_to_login">Back</string>
+    <string name="mismatch_passwd">The password did not match the re-typed password</string>
+    <string name="mismatch_passwd_title">Retype password</string>
+    <string name="registering_title">Registering</string>
+    <string name="registering_msg">Connecting to server…</string>
+    <string name="register_success">Success! Please login!</string>
+    <string name="register_failed">Failed! Account might exist!</string>
+
+    <!--  menus  -->
+    <string name="real_time_item">Real-time Prediction</string>
+    <string name="daily_item">Daily View</string>
+    <string name="select_date_item">Select date</string>
+
+    <!--  realtime fragment  -->
+    <string name="no_data">No Data</string>
+    <string name="running">Running</string>
+    <string name="walking">Walking</string>
+
+    <!--  Notification  -->
+    <string name="notif_ch_1">Milestones</string>
+    <string name="notif_ch_1_desc">Milestones notification channel. </string>
+    <string name="notif_ch_2">Generic</string>
+    <string name="notif_ch_2_desc">Notification channel for generic purpose. </string>
+</resources>
